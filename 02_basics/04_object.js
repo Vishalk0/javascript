@@ -26,4 +26,18 @@ console.log(tinder.hasOwnProperty('age'))
 
 /*
     de-structure of object ...
+
 */
+const course={
+    courseName:"JavaScript",
+    coursePrice:999,
+    courseDuration:"4 object",
+    courseInstructor:"Vishal"
+}
+console.log(course);
+const{courseInstructor}=course 
+console.log(courseInstructor);
+
+//api ka basic matlab ye hota hai ki apana kam kisi aur ke upper dal dena..
+
+
