@@ -1,0 +1,6 @@
+{
+    "github.copilot.renameSuggestions.triggerAutomatically": false,
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "terminal.integrated.suggest.inlineSuggestion": "off",
+    "github.copilot.nextEditSuggestions.fixes": false
+}
