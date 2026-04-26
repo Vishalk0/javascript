@@ -12,4 +12,4 @@ console.log(real_another_array);
 //any string are converted by from keyword
 console.log(Array.from("Vishal"));
 
-
+console.log(Array.from("Kushwaha"))
